@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ControlApp</string>
+    <string name="main_title_text">Android Things</string>
+    <string name="main_relay_on_text">Вкл.</string>
+    <string name="main_relay_off_text">Выкл.</string>
+    <string name="main_control_relay_text">Управление реле</string>
+    <string name="main_status_unknown_text">Статус не известен</string>
+    <string name="main_status_on_text">Статус: вкл.</string>
+    <string name="main_status_off_text">Статус: выкл.</string>
+    <string name="main_status_error_text">Статус: ОШИБКА</string>
+</resources>
